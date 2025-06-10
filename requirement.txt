@@ -1,0 +1,16 @@
+# === Core Requirements ===
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+pywhatkit
+
+# === Optional Enhancements ===
+openai             # For ChatGPT integration
+requests           # For weather APIs and web data
+PyQt5              # For GUI (if you want to build a windowed app)
+tk                 # GUI using Tkinter (already included in Python)
+flask              # To create a web-based JARVIS
+wolframalpha       # For advanced question answering
+keyboard           # For global hotkeys
+
