@@ -9,6 +9,7 @@ import json
 import time
 import random
 
+
 # Initialize the text-to-speech engine
 engine = pyttsx3.init()
 engine.setProperty('rate', 250)  # Speech speed
